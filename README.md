@@ -7,6 +7,7 @@
 
 # MTSA model
 · The MTSA model is now open source
+
 · We use python = = 3.10, cuda = = 11.8 to build a virtual environment. 
 · The libraries required by the virtual environment are listed in “requirements.txt”.
 · If you want to run MTSA to train your dataset, you only need to run “MR.py”. However, it should be noted that you need to make a .txt file to represent the information of the image you want to input before training the dataset. The format can refer to the example given in the “QA _ list” folder.
